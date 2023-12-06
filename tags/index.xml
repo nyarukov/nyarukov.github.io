@@ -12,11 +12,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 30 Dec 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://nyarukov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first</title>
-      <link>http://nyarukov.github.io/tags/first/</link>
+      <title>文件系统</title>
+      <link>http://nyarukov.github.io/tags/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/</link>
       <pubDate>Fri, 30 Dec 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://nyarukov.github.io/tags/first/</guid>
+      <guid>http://nyarukov.github.io/tags/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://nyarukov.github.io/tags/python/</link>
+      <pubDate>Wed, 28 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://nyarukov.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uboot</title>
+      <link>http://nyarukov.github.io/tags/uboot/</link>
+      <pubDate>Sat, 24 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://nyarukov.github.io/tags/uboot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ch340</title>
+      <link>http://nyarukov.github.io/tags/ch340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nyarukov.github.io/tags/ch340/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gcc</title>
+      <link>http://nyarukov.github.io/tags/gcc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nyarukov.github.io/tags/gcc/</guid>
       <description></description>
     </item>
     

@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://nyarukov.github.io/tags/first/</loc>
-    <lastmod>2022-12-30T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>http://nyarukov.github.io/</loc>
     <lastmod>2022-12-30T11:30:03+00:00</lastmod>
   </url><url>
@@ -14,26 +11,39 @@
     <loc>http://nyarukov.github.io/tags/</loc>
     <lastmod>2022-12-30T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://nyarukov.github.io/posts/busybox/</loc>
+    <loc>http://nyarukov.github.io/posts/i.mx/busybox/</loc>
     <lastmod>2022-12-30T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://nyarukov.github.io/posts/ubuntupython/</loc>
+    <loc>http://nyarukov.github.io/tags/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2022-12-30T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://nyarukov.github.io/tags/python/</loc>
     <lastmod>2022-12-28T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://nyarukov.github.io/posts/i.mx6_start/</loc>
+    <loc>http://nyarukov.github.io/posts/linux/ubuntupython/</loc>
+    <lastmod>2022-12-28T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://nyarukov.github.io/posts/i.mx/i.mx6_start/</loc>
     <lastmod>2022-12-24T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://nyarukov.github.io/posts/i.mx6_uboot/</loc>
+    <loc>http://nyarukov.github.io/tags/uboot/</loc>
+    <lastmod>2022-12-24T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://nyarukov.github.io/posts/i.mx/i.mx6_uboot/</loc>
     <lastmod>2022-12-11T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://nyarukov.github.io/archives/</loc>
   </url><url>
     <loc>http://nyarukov.github.io/categories/</loc>
   </url><url>
-    <loc>http://nyarukov.github.io/posts/gcc-9/</loc>
+    <loc>http://nyarukov.github.io/tags/ch340/</loc>
   </url><url>
-    <loc>http://nyarukov.github.io/posts/ch340/</loc>
+    <loc>http://nyarukov.github.io/tags/gcc/</loc>
   </url><url>
-    <loc>http://nyarukov.github.io/%E6%A0%87%E7%AD%BE/</loc>
+    <loc>http://nyarukov.github.io/tags/</loc>
   </url><url>
-    <loc>http://nyarukov.github.io/%E7%B1%BB%E5%88%AB/</loc>
+    <loc>http://nyarukov.github.io/posts/linux/gcc-9/</loc>
+  </url><url>
+    <loc>http://nyarukov.github.io/posts/linux/ch340/</loc>
   </url>
 </urlset>

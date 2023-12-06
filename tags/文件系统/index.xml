@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>文件系统 on NyarukoのBlog</title>
+    <link>http://nyarukov.github.io/tags/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/</link>
+    <description>Recent content in 文件系统 on NyarukoのBlog</description>
+    <image>
+      <title>NyarukoのBlog</title>
+      <url>http://nyarukov.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://nyarukov.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 30 Dec 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://nyarukov.github.io/tags/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用busybox构建根文件系统</title>
+      <link>http://nyarukov.github.io/posts/i.mx/busybox/</link>
+      <pubDate>Fri, 30 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://nyarukov.github.io/posts/i.mx/busybox/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>

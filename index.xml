@@ -13,74 +13,66 @@
     <lastBuildDate>Fri, 30 Dec 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://nyarukov.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用busybox构建根文件系统</title>
-      <link>http://nyarukov.github.io/posts/busybox/</link>
+      <link>http://nyarukov.github.io/posts/i.mx/busybox/</link>
       <pubDate>Fri, 30 Dec 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://nyarukov.github.io/posts/busybox/</guid>
+      <guid>http://nyarukov.github.io/posts/i.mx/busybox/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Ubuntu 升级Python 3.6 到 Python 3.9</title>
-      <link>http://nyarukov.github.io/posts/ubuntupython/</link>
+      <link>http://nyarukov.github.io/posts/linux/ubuntupython/</link>
       <pubDate>Wed, 28 Dec 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://nyarukov.github.io/posts/ubuntupython/</guid>
+      <guid>http://nyarukov.github.io/posts/linux/ubuntupython/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>ARMv7 UBOOT Start.s文件分析</title>
-      <link>http://nyarukov.github.io/posts/i.mx6_start/</link>
+      <link>http://nyarukov.github.io/posts/i.mx/i.mx6_start/</link>
       <pubDate>Sat, 24 Dec 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://nyarukov.github.io/posts/i.mx6_start/</guid>
+      <guid>http://nyarukov.github.io/posts/i.mx/i.mx6_start/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Uboot移植之编写自己的boot程序</title>
-      <link>http://nyarukov.github.io/posts/i.mx6_uboot/</link>
+      <link>http://nyarukov.github.io/posts/i.mx/i.mx6_uboot/</link>
       <pubDate>Sun, 11 Dec 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://nyarukov.github.io/posts/i.mx6_uboot/</guid>
+      <guid>http://nyarukov.github.io/posts/i.mx/i.mx6_uboot/</guid>
       <description>Desc Text.</description>
+    </item>
+    
+    
+    <item>
+      <title>tags</title>
+      <link>http://nyarukov.github.io/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nyarukov.github.io/tags/</guid>
+      <description>tags</description>
     </item>
     
     <item>
       <title>ubuntu 22.04 安装gcc-9、gcc-7、gcc-5</title>
-      <link>http://nyarukov.github.io/posts/gcc-9/</link>
+      <link>http://nyarukov.github.io/posts/linux/gcc-9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nyarukov.github.io/posts/gcc-9/</guid>
+      <guid>http://nyarukov.github.io/posts/linux/gcc-9/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Ubuntu安装ch340驱动</title>
-      <link>http://nyarukov.github.io/posts/ch340/</link>
+      <link>http://nyarukov.github.io/posts/linux/ch340/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nyarukov.github.io/posts/ch340/</guid>
+      <guid>http://nyarukov.github.io/posts/linux/ch340/</guid>
       <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>标签</title>
-      <link>http://nyarukov.github.io/%E6%A0%87%E7%AD%BE/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://nyarukov.github.io/%E6%A0%87%E7%AD%BE/</guid>
-      <description>标签</description>
-    </item>
-    
-    <item>
-      <title>类别</title>
-      <link>http://nyarukov.github.io/%E7%B1%BB%E5%88%AB/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://nyarukov.github.io/%E7%B1%BB%E5%88%AB/</guid>
-      <description>类别</description>
     </item>
     
   </channel>
