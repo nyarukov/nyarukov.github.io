@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on NyarukoのBlog</title>
+    <link>http://nyarukov.github.io/posts/</link>
+    <description>Recent content in Posts on NyarukoのBlog</description>
+    <image>
+      <title>NyarukoのBlog</title>
+      <url>http://nyarukov.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://nyarukov.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 30 Dec 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://nyarukov.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用busybox构建根文件系统</title>
+      <link>http://nyarukov.github.io/posts/busybox/</link>
+      <pubDate>Fri, 30 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://nyarukov.github.io/posts/busybox/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 升级Python 3.6 到 Python 3.9</title>
+      <link>http://nyarukov.github.io/posts/ubuntupython/</link>
+      <pubDate>Wed, 28 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://nyarukov.github.io/posts/ubuntupython/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>ARMv7 UBOOT Start.s文件分析</title>
+      <link>http://nyarukov.github.io/posts/i.mx6_start/</link>
+      <pubDate>Sat, 24 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://nyarukov.github.io/posts/i.mx6_start/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Uboot移植之编写自己的boot程序</title>
+      <link>http://nyarukov.github.io/posts/i.mx6_uboot/</link>
+      <pubDate>Sun, 11 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://nyarukov.github.io/posts/i.mx6_uboot/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>ubuntu 22.04 安装gcc-9、gcc-7、gcc-5</title>
+      <link>http://nyarukov.github.io/posts/gcc-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nyarukov.github.io/posts/gcc-9/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu安装ch340驱动</title>
+      <link>http://nyarukov.github.io/posts/ch340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nyarukov.github.io/posts/ch340/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>
