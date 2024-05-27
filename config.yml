@@ -1,4 +1,4 @@
-baseURL: "http://nyarukov.github.io/"
+baseURL: "https://nyarukov.github.io/"
 title: NyarukoのBlog
 paginate: 5
 theme: PaperMod
