@@ -3,7 +3,7 @@ title: "使用busybox构建根文件系统"
 date: 2022-12-30T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["文件系统"]
 author: "nyaruko"
 showToc: true
 TocOpen: true
@@ -11,7 +11,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."
-disableHLJS: true # to disable highlightjs
+disableHLJS: true #
 disableShare: false
 disableHLJS: true
 hideSummary: false

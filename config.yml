@@ -95,7 +95,7 @@ params:
     - name: email
       url: "luckychaoyue@gmail.com"
     - name: bilibili
-      url: "luckychaoyue@gmail.com"
+      url: "https://space.bilibili.com/219704829?spm_id_from=333.1007.0.0"
 
   # analytics:
   #   google:
@@ -104,16 +104,6 @@ params:
   #     SiteVerificationTag: "XYZabc"
   #   yandex:
   #     SiteVerificationTag: "XYZabc"
-
-  cover:
-    hidden: true #隐藏在任何地方，但不在结构化数据中
-    hiddenInList: true #隐藏在列表页和主页上
-    hiddenInSingle: true #隐藏在单页上
-
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" #编辑文本
-    appendFilePath: true #将文件路径附加到编辑链接
 #用于搜索
 #https://fusejs.io/api/options.html
   fuseOpts:
@@ -126,19 +116,15 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: 类别
-      name: 类别
-      url: /类别/
+    - identifier: archives
+      name: archives
+      url: /archives/
       weight: 10
-    - identifier: 标签
-      name: 标签
-      url: /标签/
-      weight: 20
-    - identifier: github
-      name: nyarukov.io
-      url: http://nyarukov.github.io/
-      weight: 30
-      
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 10
+     
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
